@@ -22,7 +22,7 @@ type: 0x0002
 commands:
 - 0x00 new state report
 
-	[intputs count] [1B]
+	[inputs count] [1B]
 	per input:
 	[low count] [1B]
 	[high count] [1B]
